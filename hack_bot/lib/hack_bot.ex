@@ -9,6 +9,7 @@ defmodule HackBot do
     children = [
       # Define workers and child supervisors to be supervised
       # worker(HackBot.Worker, [arg1, arg2, arg3]),
+      worker(HackBot.Slack, [])
     ]
 
     # See http://elixir-lang.org/docs/stable/elixir/Supervisor.html
