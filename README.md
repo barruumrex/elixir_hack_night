@@ -23,3 +23,10 @@ For a more interactive learning experience:
 
 For a more exhaustive list, check out the [learning guide] maintained by the core team.
 
+### Ready to Hack!
+
+Great! Check out one of the projects. Each one is a standalone project with a descriptive readme. Find one you like and get hacking.
+
+## Contributions
+
+Each of the example projects are submitted by the community. If you've got an idea for a new one, open an issue. If you've already created a new one, open up a pull request. We'd love to see what you've done. 
