@@ -1,6 +1,6 @@
 # HackBot
 
-Create a slackbot using elixir
+Create a Slack bot using Elixir
 
 ## Installation
 
@@ -11,23 +11,23 @@ cd elixir_hack_night/hack_bot
 mix deps.get
 ```
 
-### Create a bot on slack
+### Create a bot on Slack
 
-Creating a bot requires admin privileges in the slack community. If you're already an admin, continue with the following instructions. Otherwise, ask the organizer for your hack night or create your own slack team to experiment in.
+Creating a bot requires admin privileges in the Slack organization. If you're already an admin, continue with the following instructions. Otherwise, ask hack night organizer for help or create your own Slack team to experiment in.
 
 Create and configure a new bot
 
 *  [Create a new bot](https://my.slack.com/services/new/bot)
-*  Make sure you're on the correct slack account. The selection is in the upper right corner
+*  Make sure you're on the correct Slack account. The selection is in the upper right corner
 *  Choose a name and click "Add bot integration"
 *  After creating the bot user, copy the API token 
-  *  The API token will give access to your slack to anyone that has it. Be careful with this token and *DO NOT* check it in to source control
+  *  The API token will give access to your Slack to anyone that has it. Be careful with this token and *DO NOT* check it in to source control
 *  In config.exs, replace "Insert real token here" with your token
 *  Start the server with `iex -S mix`
 
-You should now see your new bot logged in on slack. Send it a message in a private chat and it respond with "Hello!". 
+You should now see your new bot logged in on Slack. Send it a message in a private chat and it will respond with "Hello!". 
 
-You're all set up to build your own slack bot. Get hackin!
+You're all set up to build your own Slack bot. Get hackin!
 
 ## Acknowledgements
 
