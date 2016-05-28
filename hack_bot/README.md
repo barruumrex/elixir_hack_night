@@ -22,7 +22,7 @@ Create and configure a new bot
 *  Choose a name and click "Add bot integration"
 *  After creating the bot user, copy the API token 
   *  The API token will give access to your Slack to anyone that has it. Be careful with this token and *DO NOT* check it in to source control
-*  In config.exs, replace "Insert real token here" with your token
+*  In `config/config.exs`, replace `Insert real token here` with your token
 *  Start the server with `iex -S mix`
 
 You should now see your new bot logged in on Slack. Send it a message in a private chat and it will respond with "Hello!". 
