@@ -29,3 +29,7 @@ You should now see your new bot logged in on slack. Send it a message in a priva
 
 You're all set up to build your own slack bot. Get hackin!
 
+## Acknowledgements
+
+*  Thank you to [Daniel Grieve](https://twitter.com/cazzrin) for creating the [blog post](http://cazrin.net/blog/2016/building-a-slack-bot-using-elixir/) project is based on. 
+*  Thank you to [BlackWilliams](https://github.com/BlakeWilliams) for creating the [elixir-slack](https://github.com/BlakeWilliams/Elixir-Slack/) application that powers this project.
