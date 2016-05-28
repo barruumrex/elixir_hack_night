@@ -6,7 +6,7 @@ Create a Slack bot using Elixir
 
 ### Download the application
 ```
-git clone git@github.com:barruumrex/elixir_hack_night.git
+git clone https://github.com/barruumrex/elixir_hack_night.git
 cd elixir_hack_night/hack_bot
 mix deps.get
 ```
