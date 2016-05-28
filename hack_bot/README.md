@@ -29,6 +29,10 @@ You should now see your new bot logged in on Slack. Send it a message in a priva
 
 You're all set up to build your own Slack bot. Get hackin!
 
+## Resources
+
+[Slack RTM documentation](https://api.slack.com/rtm)
+
 ## Acknowledgements
 
 *  Thank you to [Daniel Grieve](https://twitter.com/cazzrin) for creating the [blog post](http://cazrin.net/blog/2016/building-a-slack-bot-using-elixir/) project is based on. 
