@@ -32,6 +32,7 @@ You're all set up to build your own Slack bot. Get hackin!
 ## Resources
 
 [Slack RTM documentation](https://api.slack.com/rtm)
+
 [Elixir Slack library documentation](https://hexdocs.pm/slack/Slack.html)
 
 ## Acknowledgements
