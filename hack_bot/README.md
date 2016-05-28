@@ -13,9 +13,9 @@ mix deps.get
 
 ### Create a bot on Slack
 
-Creating a bot requires admin privileges in the Slack organization. If you're already an admin, continue with the following instructions. Otherwise, ask hack night organizer for help or create your own Slack team to experiment in.
+Creating a bot requires admin privileges in your Slack organization. If you're already an admin, continue with the following instructions. Otherwise, ask your hack night organizer for help or create your own Slack team to experiment in.
 
-Create and configure a new bot
+#### Create and configure a new bot
 
 *  [Create a new bot](https://my.slack.com/services/new/bot)
 *  Make sure you're on the correct Slack account. The selection is in the upper right corner
